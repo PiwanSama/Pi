@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp">
+
+    <TextView
+        android:id="@+id/fsender"
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        />
+
+    <ImageView
+        android:id="@+id/txtFile"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:background="@drawable/buttonout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:layout_marginTop="6dp"
+        android:padding="8dp"
+        android:textColor="@color/White"
+        android:layout_marginStart="8dp" />
+
+    <TextView
+        android:id="@+id/ftime"
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        />
+
+</LinearLayout>

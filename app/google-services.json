@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350676568325",
+    "firebase_url": "https://pichat-d9295.firebaseio.com",
+    "project_id": "pichat-d9295",
+    "storage_bucket": "pichat-d9295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350676568325:android:01d0879700f0105e",
+        "android_client_info": {
+          "package_name": "com.example.pi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350676568325-9prj83gmtgeaoi143sibscp68n211nm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pi",
+            "certificate_hash": "336be2e7d4c08fec1c016cbabbbb5f7ff1b77c1c"
+          }
+        },
+        {
+          "client_id": "350676568325-kqm0ohhbbfrg78d1dvoa81uch271bi93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ILgAu4oeB5o8NLBWRKLnvc3vRExserM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350676568325-kqm0ohhbbfrg78d1dvoa81uch271bi93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

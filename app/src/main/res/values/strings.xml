@@ -1,0 +1,66 @@
+<resources>
+    <string name="appname">Beam</string>
+    <string name="tell">Create an account and start sharing!</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="noacct">No account? Sign up here</string>
+    <string name="title_activity_app">App</string>
+    <string name="title_home">Home</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_files">Files</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="broadcast">Broadcast Message</string>
+    <string name="registration_error">Error registering bridgefy</string>
+    <string name="location_permission">Location permissions needed to start peers discovery.</string>
+    <string name="reg_welcome">Hey there, let\'s get your profile set up!</string>
+    <string name="photowhat">Choose your profile photo</string>
+    <string name="namewhat">What\'s username would you like?</string>
+    <string name="biowhat">What\'s username would you like?</string>
+    <string name="registration_success">Bridgefy SDK started</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">Guide</string>
+    <string name="tab_text_2">Chats</string>
+    <string name="tab_text_3">Files</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nbtxt">\Near You\</string>
+    <string name="nothing">There are no friends near you at the moment! Try again later</string>
+    <string name="urcontacts">Your Contacts</string>
+    <string name="powered_by">Beam is powered by Bridgefy</string>
+    <string name="un">Username</string>
+    <string name="ub">About Me:</string>
+    <string name="textguide">Click here to edit your Username</string>
+    <string name="dummy">Your Username</string>
+    <string name="edummy">janedoe@gahoomail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="btturn">Turn on Bluetooth</string>
+    <string name="locationturn">Turn on Location</string>
+    <string name="unameset">Set Username</string>
+    <string name="gogo">You\'re all set!</string>
+    <string name="e">Email</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_info">About</string>
+    <string name="select">Tap the icon to select an image</string>
+    <string name="srch">Search for friends</string>
+    <string name="BeamInfo">
+        Beam is a chat application that uses wireless mesh networks to connect you to your friends!"\n"
+        That means even without an internet connection or cellular network, you and your nearby friends can get to talking.
+        "\n"Beam was developed by:
+    </string>
+    <string name="SamaInfo">
+        Piwan Samalie"\n"
+        Contact: piwan.summerlee@gmail.com
+    </string>
+    <string name="LandasInfo">
+        Mbusa Landas"\n"
+        Contact: landasmbusa@gmail.com
+    </string>
+    <string name="Ack">
+        Special thanks goes to our support team.
+    </string>
+</resources>
+

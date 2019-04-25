@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:layout_margin="5dp">
+
+    <com.github.abdularis.civ.AvatarImageView
+        android:background="@drawable/circle"
+        android:backgroundTint="@color/ColorPrimaryDark"
+        android:id="@+id/peerAvatar"
+        android:visibility="visible"
+        app:avatarBackgroundColor="@color/White"
+        app:textColor="@color/White"
+        app:textSize="7sp"
+        android:padding="5dp"
+        android:layout_height="50dp"
+        android:layout_width="50dp" />
+
+    <TextView
+        android:id="@+id/peerUsername"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="24dp" />
+
+    <ImageView
+        android:id="@+id/online"
+        android:layout_gravity="right"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/circle"
+        android:backgroundTint="@color/green"
+        android:visibility="gone"/>
+    <ImageView
+        android:id="@+id/offline"
+        android:layout_gravity="end"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/circle"
+        android:backgroundTint="@color/grey"
+        android:visibility="gone"/>
+
+</LinearLayout>
