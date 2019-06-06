@@ -1,4 +1,4 @@
-# Project Title
+# Beam
 
 Wireless Mesh Networks in Android
 
@@ -9,7 +9,7 @@ Wireless Mesh Networks in Android
 
 ## Authors
 
-* **Piwan Samalie** - *Initial work* - [Piwan Samalie](https://github.com/PiwanSama)
+* [Piwan Samalie](https://github.com/PiwanSama)
 
 ## License
 
